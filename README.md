@@ -1,4 +1,4 @@
-# MongoDB tasks for PPGCC
+# Tasks using MongoDB for PPGCC
 
 Our goal was to see how Covid-19 is affecting Rio Grande do Sul.
 
